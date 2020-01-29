@@ -154,6 +154,7 @@ margin-bottom:15px;
 color:grey;
 text-shadow: 2px 1px 2px rgba(150, 150, 150, 0.95);
 font-weight:600;
+margin-right:10px;
 }
 section p{
 font-size:25px;
@@ -185,8 +186,6 @@ font-size:25px;
     transition: 0.4s;
     display:inline-block;
     width:25%;
-    position:relative;
-    left:10;
 }
 /* .section  .project-res2{
   background: url("../img/preview2.PNG") no-repeat
