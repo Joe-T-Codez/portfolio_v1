@@ -186,7 +186,7 @@ font-size:25px;
     display:inline-block;
     width:25%;
 }
-.section  .project-res2{
+/* .section  .project-res2{
   background: url("../img/preview2.PNG") no-repeat
     center center;
     -webkit-background-size: cover;
@@ -228,7 +228,7 @@ font-size:25px;
     transition: 0.4s;
     display:inline-block;
     width:25%;
-}
+} */
 
 .skill-icons div{
   height: 350px;
