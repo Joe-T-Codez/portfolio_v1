@@ -1,5 +1,4 @@
 @import "reset.css";
-@import"/portfolio/portfolio-projects.css";
 *{
     box-sizing:border-box;
 }
@@ -126,13 +125,6 @@ div .border { animation-name: fadeInBottom }
   text-align:center;
   padding:20px 80px;
 }
-/* .section-dark{
-  background-color:#282e34;
-  color:#ddd;
-} */
-/* .section-dark h2{
-  color:white;
-} */
 .img-bottomm{
   background:url('../img/city1.jpg');
   min-height:400px;
@@ -164,71 +156,8 @@ font-size:25px;
   padding:0;
 
 }
-.section .project-res1{
-  background: url("food-app.PNG") no-repeat
-    center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    min-height:220px;
-    -webkit-border-top-left-radius: 5px;
-    -webkit-border-top-right-radius: 5px;
-    -moz-border-radius-topleft: 5px;
-    -moz-border-radius-topright: 5px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    display:inline-block;
-    margin:15px;
-    z-index:0;
-    opacity:1;
-    transition: 0.4s;
-    display:inline-block;
-    width:25%;
-}
-/* .section  .project-res2{
-  background: url("../img/preview2.PNG") no-repeat
-    center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    min-height:220px;
-    -webkit-border-top-left-radius: 5px;
-    -webkit-border-top-right-radius: 5px;
-    -moz-border-radius-topleft: 5px;
-    -moz-border-radius-topright: 5px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    display:inline-block;
-    margin:15px;
-    z-index:0;
-    opacity:1;
-    transition: 0.4s;
-    display:inline-block;
-    width:25%;
-}
-.section .project-res3{
-  background: url("../img/preview3.PNG") no-repeat
-    center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    min-height:220px;
-    -webkit-border-top-left-radius: 5px;
-    -webkit-border-top-right-radius: 5px;
-    -moz-border-radius-topleft: 5px;
-    -moz-border-radius-topright: 5px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    display:inline-block;
-    margin:15px;
-    z-index:0;
-    transition: 0.4s;
-    display:inline-block;
-    width:25%;
-} */
+
+
 
 .skill-icons div{
   height: 350px;
