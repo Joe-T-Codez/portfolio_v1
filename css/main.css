@@ -157,7 +157,7 @@ font-size:25px;
 
 }
 .section .project-res1{
-  background: url("food-app.PNG") no-repeat
+  background: url("../img/food-app.PNG") no-repeat
     center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
