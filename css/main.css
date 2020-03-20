@@ -150,7 +150,20 @@ div .border{
 #project-img:hover{
   opacity:.2;
   cursor: pointer;
-
+}
+.view-code-area{
+  width:50%;
+  height:50px;
+}
+.view-code i{
+float:right;
+  color:black;
+  font-size: 40px;
+    margin-top:10px;
+      transition: .3s ease-in-out;
+}
+.view-code i:hover{
+  color:grey;
 }
 .project-section .project-section-title{
   text-align: center;
