@@ -388,3 +388,8 @@ margin-top:5px;
 }
 
 } */
+@media screen and (max-width: 500px) {
+  div .border{
+    font-size:40px;
+  }
+}
