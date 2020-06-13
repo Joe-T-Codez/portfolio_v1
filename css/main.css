@@ -317,6 +317,15 @@ margin-top:5px;
   margin-top: 10px;
   font-size: 30px;
 }
+
+#payment{
+  text-align: center;
+}
+#payment table{
+position:relative;
+left:800px;
+}
+
 /*
 /////////////////////////////////   RESPONSIVE DESIGN  ///////////////////////////////////////////////
 */
