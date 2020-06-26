@@ -286,6 +286,7 @@ padding-top:5%;
 }
 .about-text .about-text-container{
   padding:20px;
+  text-align: justify;
 }
 .about-text p{
   line-height: 35px;
